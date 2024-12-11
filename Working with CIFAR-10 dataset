@@ -1,0 +1,2 @@
+To understand and implement a basic machine learning algorithm (Support Vector Machine) for the task of image classification.
+I used the famous CIFAR-10 dataset, which contains images of 10 different classes (airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks). This dataset is widely used and is perfect for beginners due to its simplicity and the fact that it doesn't require high computational power.
